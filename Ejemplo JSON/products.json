@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Laptop HP Pavilion 15",
+    "precio": 14500,
+    "imagen": "https://m.media-amazon.com/images/I/71pC69I3lzL._AC_SL1500_.jpg"
+  },
+  {
+    "id": 2,
+    "nombre": "Smartphone Samsung Galaxy A55",
+    "precio": 8999,
+    "imagen": "https://mx.pinterest.com/pin/144607838031282094/jpg"
+  },
+  {
+    "id": 3,
+    "nombre": "Audífonos Sony WH-1000XM5",
+    "precio": 7200,
+    "imagen": "https://mx.pinterest.com/pin/632896553925381845/jpg"
+  },
+  {
+    "id": 4,
+    "nombre": "Smartwatch Xiaomi Mi Watch",
+    "precio": 2599,
+    "imagen": "https://mx.pinterest.com/pin/4595853120974468608/jpg"
+  },
+  {
+    "id": 5,
+    "nombre": "Teclado Mecánico Redragon Kumara K552",
+    "precio": 1299,
+    "imagen": "https://mx.pinterest.com/pin/4604297428117439744/jpg"
+  },
+  {
+    "id": 6,
+    "nombre": "Mouse Logitech G502 HERO",
+    "precio": 899,
+    "imagen": "https://mx.pinterest.com/pin/1147221705095996656/jpg"
+  },
+  {
+    "id": 7,
+    "nombre": "Monitor LG Ultrawide 29''",
+    "precio": 4999,
+    "imagen": "https://m.media-amazon.com/images/I/61mXv6y9dZL._AC_SL1500_.jpghttps://mx.pinterest.com/pin/699043173388824743/jpg"
+  },
+  {
+    "id": 8,
+    "nombre": "Silla Gamer Cougar Armor One",
+    "precio": 6200,
+    "imagen": "https://mx.pinterest.com/pin/60798663707392918/jpg"
+  },
+  {
+    "id": 9,
+    "nombre": "Disco Duro Externo Seagate 2TB",
+    "precio": 1799,
+    "imagen": "https://mx.pinterest.com/pin/4598597557630643712/jpg"
+  },
+  {
+    "id": 10,
+    "nombre": "Memoria USB Kingston 64GB",
+    "precio": 299,
+    "imagen": "https://mx.pinterest.com/pin/4591419895895559680/jpg"
+  },
+  {
+    "id": 11,
+    "nombre": "Cámara Web Logitech C920 HD Pro",
+    "precio": 1850,
+    "imagen": "https://mx.pinterest.com/pin/166492517468488725/jpg"
+  },
+  {
+    "id": 12,
+    "nombre": "Tablet Apple iPad 10.2'' (9ª Gen)",
+    "precio": 10899,
+    "imagen": "https://mx.pinterest.com/pin/321303754684280964/jpg"
+  },
+  {
+    "id": 13,
+    "nombre": "Impresora Epson EcoTank L3250",
+    "precio": 4499,
+    "imagen": "https://mx.pinterest.com/pin/539869074099912253/jpg"
+  },
+  {
+    "id": 14,
+    "nombre": "Bocina Bluetooth JBL Flip 6",
+    "precio": 2599,
+    "imagen": "https://mx.pinterest.com/pin/4605001093190257920/jpg"
+  },
+  {
+    "id": 15,
+    "nombre": "Consola Nintendo Switch OLED",
+    "precio": 8499,
+    "imagen": "https://mx.pinterest.com/pin/486740672249392547/jpg"
+  },
+  {
+    "id": 16,
+    "nombre": "Control Xbox Series X Original",
+    "precio": 1699,
+    "imagen": "https://mx.pinterest.com/pin/578149670954551627/jpg"
+  },
+  {
+    "id": 17,
+    "nombre": "Smart TV Samsung 50'' 4K UHD",
+    "precio": 9999,
+    "imagen": "https://mx.pinterest.com/pin/85990674130636219/jpg"
+  },
+  {
+    "id": 18,
+    "nombre": "Router TP-Link Archer AX23 Wi-Fi 6",
+    "precio": 1899,
+    "imagen": "https://mx.pinterest.com/pin/1021894971829409103/jpg"
+  },
+  {
+    "id": 19,
+    "nombre": "Refrigerador Mabe 11 Pies",
+    "precio": 10499,
+    "imagen": "https://mx.pinterest.com/pin/4611123201739291392/jpg"
+  },
+  {
+    "id": 20,
+    "nombre": "Horno de Microondas Panasonic 1.2 pies³",
+    "precio": 2499,
+    "imagen": "https://mx.pinterest.com/pin/4602045634447181056/jpg"
+  }
+]
